@@ -1,2 +1,0 @@
-# SampleWeb
-Sample  Web Development
